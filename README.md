@@ -8,7 +8,7 @@ This repository presents the work carried out during my final Master's internshi
 🎓 **Master’s Program**: Applied Mathematics – Mathematical Modelling  
 🏫 **University**: Mohammed V University of Rabat (UM5)  
 🏢 **Internship Host**: Mohammed VI Polytechnic University (UM6P)  
-🧑‍🏫 **Supervisor**: Prof. Lahcen MANIAR, , Nadia RAÏSSI, Mustapha SERHANI  
+🧑‍🏫 **Supervisor**: Prof. Lahcen MANIAR, Nadia RAÏSSI, Mustapha SERHANI  
 👩‍💻 **Author**: Hajar BADRAOUI  
 📆 **Defense Date**: July 18, 2024  
 
