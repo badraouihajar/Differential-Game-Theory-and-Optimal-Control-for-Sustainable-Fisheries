@@ -2,31 +2,31 @@
 
 This repository presents the work carried out during my final Master's internship at **UM6P (Mohammed VI Polytechnic University)** in 2024.
 
-📌 **Internship Topic**:  
+ **Internship Topic**:  
 *Differential Game Theory and Applications: Sustainable Management of Fishery Resources*
 
-🎓 **Master’s Program**: Applied Mathematics – Mathematical Modelling  
-🏫 **University**: Mohammed V University of Rabat (UM5)  
-🏢 **Internship Host**: Mohammed VI Polytechnic University (UM6P)  
-🧑‍🏫 **Supervisor**: Prof. Lahcen MANIAR, Prof. Nadia RAÏSSI, Prof. Mustapha SERHANI  
-👩‍💻 **Author**: Hajar BADRAOUI  
-📆 **Defense Date**: July 18, 2024  
+ **Master’s Program**: Applied Mathematics – Mathematical Modelling  
+ **University**: Mohammed V University of Rabat (UM5)  
+ **Internship Host**: Mohammed VI Polytechnic University (UM6P)  
+ **Supervisor**: Prof. Lahcen MANIAR, Prof. Nadia RAÏSSI, Prof. Mustapha SERHANI  
+ **Author**: Hajar BADRAOUI  
+ **Defense Date**: July 18, 2024  
 
 ---
 
-## 🌍 Project Overview
+##  Project Overview
 
 The objective of the internship was to study **differential game theory** and apply it to ecological and economic modeling, particularly for the **sustainable exploitation of fishery resources**.
 
 Key themes:
 
-- ✅ **Optimal control** for single-resource users
-- 🤝 **Differential games** modeling competition between multiple fishermen
-- 🎯 **Nash equilibrium** strategies under resource dynamics
+-  **Optimal control** for single-resource users
+-  **Differential games** modeling competition between multiple fishermen
+-  **Nash equilibrium** strategies under resource dynamics
 
 ---
 
-## 🧠 Mathematical Models
+##  Mathematical Models
 
 ### 1. Optimal Control Problem
 
@@ -52,7 +52,7 @@ The competition is captured via **interconnected control dynamics**.
 
 ---
 
-## ⚙️ Tools and Methods
+## ⚙ Tools and Methods
 
 - Pontryagin’s Maximum Principle for optimal control
 - Derivation of **closed-form equilibrium strategies**
@@ -61,7 +61,7 @@ The competition is captured via **interconnected control dynamics**.
 
 ---
 
-## 📈 Results
+##  Results
 
 - Long-term behavior of fish biomass
 - Comparison of exploitation strategies (solo vs competitive)
@@ -70,7 +70,7 @@ The competition is captured via **interconnected control dynamics**.
 
 ---
 
-## 🧭 Future Work
+##  Future Work
 
 - Explore **cooperative game frameworks**
 - Study **Stackelberg equilibria** between leaders and followers
@@ -78,7 +78,7 @@ The competition is captured via **interconnected control dynamics**.
 
 ---
 
-## 📚 References
+##  References
 
 - Haurie, A., Krawczyk, J.B., & Zaccour, G. (2012). *Games and Dynamic Games*  
 - Conrad, J., & Clark, C. (1987). *Natural Resource Economics*  
