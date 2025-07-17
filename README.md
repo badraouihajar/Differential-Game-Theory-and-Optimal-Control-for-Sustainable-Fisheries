@@ -52,7 +52,7 @@ The competition is captured via **interconnected control dynamics**.
 
 ---
 
-## ⚙ Tools and Methods
+##  Tools and Methods
 
 - Pontryagin’s Maximum Principle for optimal control
 - Derivation of **closed-form equilibrium strategies**
