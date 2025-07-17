@@ -1,4 +1,4 @@
-# 🎣 Differential Games and Optimal Control in Fisheries
+#  Differential Games and Optimal Control in Fisheries
 
 This repository presents the work carried out during my final Master's internship at **UM6P (Mohammed VI Polytechnic University)** in 2024.
 
